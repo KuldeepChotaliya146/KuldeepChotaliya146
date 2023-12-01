@@ -70,4 +70,5 @@ hobbies: ["Gaming", "Listning Podcast"]
 
 ---
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KuldeepChotaliya146&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuldeepChotaliya146&show_icons=true&theme=radical)
