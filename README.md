@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/ozPpigy5tShpjw3zjp/giphy.gif](https://media.giphy.com/media/Vhd9s5HAucP4a4BDbP/giphy.gif?cid=790b7611g0j82lwu11hlkka18t0ln93fbwtymijaxzxakv8p&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+  <img src= "https://media.giphy.com/media/Vhd9s5HAucP4a4BDbP/giphy.gif">
 </p>
 
 ---
